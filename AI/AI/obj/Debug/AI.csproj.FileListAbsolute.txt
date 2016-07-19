@@ -1,0 +1,10 @@
+C:\Users\kevin\Documents\GitHub\AI\AI\AI\bin\Debug\AI.exe.config
+C:\Users\kevin\Documents\GitHub\AI\AI\AI\bin\Debug\AI.exe
+C:\Users\kevin\Documents\GitHub\AI\AI\AI\bin\Debug\AI.pdb
+C:\Users\kevin\Documents\GitHub\AI\AI\AI\obj\Debug\AI.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Documents\GitHub\AI\AI\AI\obj\Debug\AI.Form1.resources
+C:\Users\kevin\Documents\GitHub\AI\AI\AI\obj\Debug\AI.Properties.Resources.resources
+C:\Users\kevin\Documents\GitHub\AI\AI\AI\obj\Debug\AI.csproj.GenerateResource.Cache
+C:\Users\kevin\Documents\GitHub\AI\AI\AI\obj\Debug\AI.exe
+C:\Users\kevin\Documents\GitHub\AI\AI\AI\obj\Debug\AI.pdb
+C:\Users\kevin\Documents\GitHub\AI\AI\AI\obj\Debug\AI.File.resources
